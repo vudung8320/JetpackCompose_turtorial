@@ -83,8 +83,6 @@ fun MultipleStyleText() {
         withStyle(style = SpanStyle(color = Color.Blue)) {
             append("H")
         }
-        withStyle(style = SpanStyle(color = Color ))
-        append("ello")
 
         withStyle(style = SpanStyle(color = Color.Green)) {
             append("t")
