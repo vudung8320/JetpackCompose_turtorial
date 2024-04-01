@@ -3,4 +3,7 @@
     <string name="title_activity_button">Button</string>
     <string name="title_activity_button4">Button_4</string>
     <string name="title_activity_basic_layout">BasicLayout</string>
+    <string name="title_activity_constraint_layout">ConstraintLayout</string>
+    <string name="title_activity_list_and_grid">ListAndGrid</string>
+    <string name="title_activity_manage_state">ManageState</string>
 </resources>
